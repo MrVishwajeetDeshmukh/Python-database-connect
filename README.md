@@ -1,2 +1,2 @@
 # Python-database-connect
-Python-database-connect
+Connect Python with MySQL database
